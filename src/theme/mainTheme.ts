@@ -1,0 +1,20 @@
+export const mainTheme = {
+    black: '#000',
+    gray80: '#cccccc',
+    gray100: '#f3f3f4',
+    gray200: '#ececec',
+    placeholderColor: '#ababab',
+    orange: '#f1ba15',
+    white: '#FFFFFF',
+    regular: 400,
+    bold: 600,
+    fontSize: {
+        xs: '1.2rem',
+        s: '1.4rem',
+        m: '2rem',
+        h: '3rem',
+        xl: '4rem',
+        xxl: '6rem',
+        xxxl: '15rem',
+    },
+};
